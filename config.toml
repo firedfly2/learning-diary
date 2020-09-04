@@ -1,3 +1,10 @@
 baseURL = "http://firedfly.tkg/"
 languageCode = "ja-JP"
 title = "firedfly's learning diary"
+theme  = "hugo-future-imperfect-slim"
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json"]
