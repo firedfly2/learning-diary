@@ -1,0 +1,7 @@
+baseURL = "http://firedfly.tk/"
+languageCode = "ja"
+title = "firedfly's Learning Diary"
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+theme = "ananke"
+publishDir = "docs"
