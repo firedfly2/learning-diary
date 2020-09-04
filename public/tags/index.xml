@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on firedfly&#39;s learning diary</title>
-    <link>http://firedfly.tkg/tags/</link>
-    <description>Recent content in Tags on firedfly&#39;s learning diary</description>
+    <title>Tags on firedfly&#39;s Learning Diary</title>
+    <link>http://firedfly.tk/tags/</link>
+    <description>Recent content in Tags on firedfly&#39;s Learning Diary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language>
-    <lastBuildDate>Sun, 30 Jun 2019 02:34:27 +0900</lastBuildDate>
+    <language>ja</language>
     
-	<atom:link href="http://firedfly.tkg/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://firedfly.tk/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>daily</title>
-      <link>http://firedfly.tkg/tags/daily/</link>
-      <pubDate>Sun, 30 Jun 2019 02:34:27 +0900</pubDate>
-      
-      <guid>http://firedfly.tkg/tags/daily/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

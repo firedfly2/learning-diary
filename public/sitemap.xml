@@ -3,32 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://firedfly.tkg/tags/daily/</loc>
-    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
+    <loc>http://firedfly.tk/categories/</loc>
   </url>
   
   <url>
-    <loc>http://firedfly.tkg/</loc>
-    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
+    <loc>http://firedfly.tk/</loc>
   </url>
   
   <url>
-    <loc>http://firedfly.tkg/posts/</loc>
-    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://firedfly.tkg/tags/</loc>
-    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://firedfly.tkg/posts/first-article/</loc>
-    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://firedfly.tkg/categories/</loc>
+    <loc>http://firedfly.tk/tags/</loc>
   </url>
   
 </urlset>
