@@ -2,10 +2,5 @@ baseURL = "http://firedfly.tk/"
 languageCode = "ja"
 title = "firedfly's Learning Diary"
 contentDir = "post"
-theme  = "hugo-future-imperfect-slim"
-
-[markup.goldmark.renderer]
-  unsafe                = true
-
-[outputs]
-  home                  = ["html", "json"]
+disableKinds = ["RSS", "sitemap"]
+theme = "ananke"
